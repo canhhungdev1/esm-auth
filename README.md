@@ -1,5 +1,5 @@
 # EMS Auth Service
-Authentication service for EMS
+Authentication service cho EMS
 
 ## Features
 - Login / Register
